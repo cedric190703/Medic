@@ -1,1 +1,1 @@
-# Medic
+This project is about a medical website.
