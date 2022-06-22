@@ -454,9 +454,10 @@ button:hover{
     text-align: center;
     margin-top: 12%;
     width: 35%;
-    margin-bottom: 10%;
+    margin-bottom: 2%;
     color: white;
     background-image: url("fondtkt.jpg");
+    margin-top: 25px;
     background-repeat: no-repeat;
 }
 
@@ -548,6 +549,7 @@ footer .newsletter{
 .end{
     background-color: #121111;
     color: white;
+    margin-top: 50px;
 }
 
 .end h3{
@@ -605,4 +607,8 @@ footer .newsletter{
     color: #000;
     border: 1px solid black;
     background-color: white;
+}
+
+.buy button{
+    height: 50px;
 }
