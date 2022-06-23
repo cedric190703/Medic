@@ -261,7 +261,7 @@ header button{
 }
 
 .content img{
-    width: 75px;
+    width: 100px;
     padding: 25px;
     border: 2px solid black;
     margin-bottom: 25px;
@@ -461,11 +461,15 @@ button:hover{
     background-repeat: no-repeat;
 }
 
+
+.right h1{
+    margin-top: 15%;
+}
+
 .right .texte4{
     width: 35%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20%;
 }
 
 .left button:hover{
@@ -611,4 +615,14 @@ footer .newsletter{
 
 .buy button{
     height: 50px;
+}
+
+
+.content img:hover{
+    background-color: #10e7f4;
+}
+
+textarea{
+    resize: none;
+    width: 90%;
 }
